@@ -25,8 +25,8 @@ class PRAnalyzer:
     def _init_notion(self):
         """Initialize the Notion client with API key and page ID."""
         try:
-            self.notion_api_key = os.getenv("NOTION_API_KEY")
-            self.notion_page_id = os.getenv("NOTION_PAGE_ID")
+            self.notion_api_key = os.getenv("NOTION_SECRET")
+            self.notion_page_id = os.getenv("NOTION_PAGE_UUID")
             
             if not self.notion_api_key or not self.notion_page_id:
                 raise ValueError("Missing Notion API key or page ID in environment variables")
