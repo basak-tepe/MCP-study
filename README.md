@@ -13,9 +13,9 @@ It does the following:
 
 <br>
 
-<img width="418" alt="image" src="https://github.com/user-attachments/assets/da30cee0-2297-463e-882e-203d2a9b75b7" />
-<img width="432" alt="image" src="https://github.com/user-attachments/assets/b351c18a-9b08-4136-b575-12c2f6cb3359" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/da30cee0-2297-463e-882e-203d2a9b75b7" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/b351c18a-9b08-4136-b575-12c2f6cb3359" />
 <br>
 <br>
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/b8dc88aa-eaf3-47f3-bb21-4cbd37945291" />
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/5d808460-638c-45fe-bb15-b04141ee88f9" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/b8dc88aa-eaf3-47f3-bb21-4cbd37945291" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/5d808460-638c-45fe-bb15-b04141ee88f9" />
